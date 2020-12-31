@@ -1,0 +1,1 @@
+This is ebernklau's first git project!
